@@ -1,4 +1,1 @@
-..
-debug
-ddddebug
-dddddddddddddebug
+nobug
