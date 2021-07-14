@@ -1,1 +1,3 @@
 zsr init
+
+zsr: dev1
